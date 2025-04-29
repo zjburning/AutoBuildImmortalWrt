@@ -35,8 +35,6 @@ PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES luci-theme-material"
 PACKAGES="$PACKAGES luci-app-msd_lite"
-PACKAGES="$PACKAGES luci-app-turboacc"
-PACKAGES="$PACKAGES luci-app-broadbandacc"
 PACKAGES="$PACKAGES luci-app-ddns"
 PACKAGES="$PACKAGES luci-theme-openwrt"
 # 增加几个必备组件 方便用户安装iStore
